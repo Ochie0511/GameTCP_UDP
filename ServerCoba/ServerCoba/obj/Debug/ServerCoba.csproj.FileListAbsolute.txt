@@ -1,0 +1,7 @@
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\bin\Debug\ServerCoba.exe.config
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\bin\Debug\ServerCoba.exe
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\bin\Debug\ServerCoba.pdb
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\obj\Debug\ServerCoba.csprojResolveAssemblyReference.cache
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\obj\Debug\ServerCoba.csproj.CoreCompileInputs.cache
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\obj\Debug\ServerCoba.exe
+D:\Documents\PENS\Semester 6\Praktikum Multiplayer Game\CobaServer\ServerCoba\ServerCoba\obj\Debug\ServerCoba.pdb
